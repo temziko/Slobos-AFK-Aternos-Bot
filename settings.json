@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "temziko.aternos.me",
+    "ip": "chorkie.aternos.host",
     "port": 15899,
     "version": "1.21.1",
     "try-creative": false
